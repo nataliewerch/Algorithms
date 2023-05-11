@@ -1,0 +1,10 @@
+Start
+input:
+arr;
+
+sum = 0;
+for i = 0 to arr.length-1 step +1:
+    sum = sum + arr[i]^2;
+
+Print sum
+End

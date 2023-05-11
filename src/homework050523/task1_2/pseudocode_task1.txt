@@ -1,0 +1,10 @@
+Start
+input:
+ arr,
+ number;
+
+for i = arr.length-1 to 0 step -1:
+    if arr[i] = number
+        return i;
+return -1
+End
