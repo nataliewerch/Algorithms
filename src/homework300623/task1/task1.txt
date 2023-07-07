@@ -1,0 +1,19 @@
+1 уровень сложности: Level 1
+Приведите несколько примеров применения хеш-функций в реальной жизни.
+Создайте ключ RSA и скиньте его в открытом виде.
+
+Примеры применения хеш-функций:
+1.	Хранение паролей
+2.	Проверка целостности данных
+3.	Бллокчейн
+4.	Цифровые подписи
+5.	Поиск дубликатов файлов
+
+
+    Публичный ключ RSA
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDDKeeN1zppwgi22v7oKMo6vPpn44uoRpSDa5V8b+9+xEEkqi2SBKBqYuxoMwc
+1K4dM5tkVISDSr86cSaHIYDcSI2TBk8IhDwTf2E9N2s/tvXD/bAUZJQyvbjnHp7rnKJsPdhuMv7aBRpOJHIqn+iF8zSXHGuCGrgir
+Y04jL3b6rxgndJ3gYV1KtF02XM5Fcql+9GSOkV7QMDd2vg8M4R7dbsCA7pYT+6UQGEeIerNkSzQmgSBzOZePy8+AGnltnrr09/qjV
+2hechh0rsVp+Eas4F237+Fi2++8I/8TdBoIPs5nl/0/Uh99kIQP/PWprczhTlGJ4TsVK8yRGIW7V/oyh8KCqZZ0XbS/y26E4Fu0Go
+3CupwPO4o2sjarpg0gCxOLGY8xUjkNM6dRTTpYZqGNRyVn7KXECHlTqHTfUEM1wr60rV2B8ayYEtCGp0RAAyRTiy7W8Gff05P9pnx
+osgUU35t9P/9gY+tcq6/J1R0CaaBe/5UzCd/qnZTWXdq9QzM= Natalie@Natalie.fritz.box
